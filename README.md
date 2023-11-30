@@ -1,6 +1,8 @@
 #Practical_2
 
+
 **Learning Activities & Resources**
+
 
 I looked the youtube video as I am trying to create a website using Joomla. 
 Youtube video: https://www.youtube.com/watch?v=h5VZwTLdgdM&list=PLQSbA0rrCrqHZxODzTYgAaCp_zYI3Aiug&index=3
@@ -15,11 +17,15 @@ Phoca Gallery: https://www.phoca.cz/download/66-phoca-gallery/1-phoca-gallery-co
 All the pictures that I have taken are from an open source website, google.
 Open Source Website: https://www.google.com
 
+
 **Estimated hours**
+
 
 Around 21 hours (about 3 hours for 7 days)
 
+
 **Content Insights**
+
 
 Looking back on the past year with "VELVET Clothing Studio," I've learned some important things, and they match up with the SMART criteria, which means they're Specific, Measurable, Achievable, Relevant, and Time-bound.
 
@@ -35,7 +41,9 @@ Looking back on the past year with "VELVET Clothing Studio," I've learned some i
 
 So, looking at it all, the SMART insights from our time with "VELVET Clothing Studio" show that the choices we made—focusing on brands, being engaging, and staying adaptable—are not only making our customers happy but also setting us up for more success in the ever-changing world of online fashion.
 
+
 **Career/Employability/Learning Insights**
+
 
 Looking back on the past year of building my skills in web development and managing "VELVET Clothing Studio," I've gained some valuable insights that have influenced my career and employability journey.
 
