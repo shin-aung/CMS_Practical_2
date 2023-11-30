@@ -1,4 +1,4 @@
-# CMS_Practical_2
+#Practical_2
 
 **Learning Activities & Resources**
 
@@ -15,20 +15,38 @@ Phoca Gallery: https://www.phoca.cz/download/66-phoca-gallery/1-phoca-gallery-co
 All the pictures that I have taken are from an open source website, google.
 Open Source Website: https://www.google.com
 
-Estimated hours
+**Estimated hours**
 
-Around 21 hours (3 hours for 7 days)
+Around 21 hours (about 3 hours for 7 days)
 
-Content Insights
+**Content Insights**
 
-Child themes allow for the editing of existing themes without needing modify the main Theme. This allows for customization, without the worry of permanently editing the original design.
-A child theme also allow for the edits to be saved and not be affected by updates to the theme.
-If changes had be made to the original theme, then when an update comes out for the theme, these changes can be overwritten and lost.
-However if a child theme was used instead, when these updates come out the changes can still be applied to the theme as they run off a separate file and the user doesn't have to worry about the changes they created being removed or needing to choose whether or not to update a theme or not.
+Looking back on the past year with "VELVET Clothing Studio," I've learned some important things, and they match up with the SMART criteria, which means they're Specific, Measurable, Achievable, Relevant, and Time-bound.
 
-Career/Employability/Learning Insights
+**Specific:** We focused on selling clothes from famous brands. This means we chose a clear and definite strategy of offering products only from well-known brands, aiming for a specific group of people who value brand names in fashion.
 
-Child themes are actively used by website designers to be able to make edits to sites, without needing to worry about changing the complete design of the template.
-I understand using child themes make styling more efficient and able to make changes and not worry about them being removed.
-However as they as for a specific area of development I don't know if I would be using them in the future as This is not an area I am looking at pursuing for my career.
-It was interesting learning about what back end developers go through to create the work they do, But it all depends on where my career goes in the future, as to if I am using child themes in the future.
+**Measurable:** Our success can be measured by looking at how much our customers engage with us, how many items we sell, and how loyal our customers are. We keep track of things like how many people visit our website, what customers say about us, and how much we sell to see if our strategy is working.
+
+**Achievable:** Our goal of featuring famous brands is not just a dream—it's something we can really do in the competitive fashion market. By teaming up with these brands, we've made our collection both special and within reach for the people we want to reach.
+
+**Relevant:** Having a blog fits well with our goal of making a strong connection with our customers. Writing articles about the brands we feature makes our content relevant, giving a background that goes beyond just the clothes and connects with the lifestyle and values of our customers.
+
+**Time-bound:** Our website is always changing to keep up with the fast-moving fashion world. Staying current and flexible with trends, what customers like, and what's happening in the industry is something we're committed to. We regularly update our blog and product categories to make sure we stay up-to-date.
+
+So, looking at it all, the SMART insights from our time with "VELVET Clothing Studio" show that the choices we made—focusing on brands, being engaging, and staying adaptable—are not only making our customers happy but also setting us up for more success in the ever-changing world of online fashion.
+
+**Career/Employability/Learning Insights**
+
+Looking back on the past year of building my skills in web development and managing "VELVET Clothing Studio," I've gained some valuable insights that have influenced my career and employability journey.
+
+Firstly, diving into web development with Joomla has not only expanded my technical skills but has also given me a solid foundation in creating and managing websites. This newfound knowledge has opened up opportunities for me in the digital space, enhancing my employability in the ever-evolving tech landscape.
+
+On the retail side with "VELVET Clothing Studio," the focus on offering products from well-known brands has taught me the importance of strategic curation. Understanding customer preferences and aligning them with established brands has not only boosted the store's appeal but has also deepened my understanding of market dynamics.
+
+The inclusion of a blog on the website has broadened my perspective on content creation and storytelling. Crafting articles about the featured brands has not only engaged our audience but has also developed my ability to communicate brand narratives effectively.
+
+Categorizing products into distinct sections—shoes, pants, and shirts—has taught me the importance of user experience. This categorization not only makes the shopping process more straightforward for customers but has also honed my skills in organizing and presenting information logically.
+
+Furthermore, the constant need to adapt to the fast-paced fashion industry has instilled in me a sense of agility and flexibility. Staying current with trends, customer preferences, and industry changes has become a crucial aspect of my career approach, ensuring that I remain relevant and competitive in my endeavors.
+
+In summary, this year of learning and managing "VELVET Clothing Studio" has not only enhanced my technical and business skills but has also provided insights that are shaping my career path. The combination of web development expertise and retail management experience has positioned me for a dynamic and evolving career journey.
