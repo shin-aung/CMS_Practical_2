@@ -58,3 +58,9 @@ Categorizing products into distinct sections—shoes, pants, and shirts—has ta
 Furthermore, the constant need to adapt to the fast-paced fashion industry has instilled in me a sense of agility and flexibility. Staying current with trends, customer preferences, and industry changes has become a crucial aspect of my career approach, ensuring that I remain relevant and competitive in my endeavors.
 
 In summary, this year of learning and managing "VELVET Clothing Studio" has not only enhanced my technical and business skills but has also provided insights that are shaping my career path. The combination of web development expertise and retail management experience has positioned me for a dynamic and evolving career journey.
+
+
+Why do I use Joomla to create website other than other website?
+
+
+I chose to use Joomla for creating my website because of its user-friendly interface and robust features. As someone navigating the world of web development, Joomla offered a straightforward platform that allowed me to build a professional and visually appealing site without an extensive technical background. The flexibility it provides, especially in terms of content management and customization, made it an ideal choice for showcasing a diverse range of products in my clothing shop, "VELVET Clothing Studio." Joomla's vibrant community and extensive documentation have also been invaluable, providing support and resources as I continue to refine and expand my website. Overall, Joomla aligns with my goal of creating a dynamic and engaging online presence for my business while offering a manageable and scalable solution for my evolving needs.
